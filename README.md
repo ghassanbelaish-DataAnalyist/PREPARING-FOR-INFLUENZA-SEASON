@@ -2,7 +2,7 @@
 : The United States has an influenza season where more people than usual suffer from  the flu. the objective is to determine when to send staff, and how many, to each state.
 # Preparing for Influenza Season: Medical Staffing Analysis
 
-**[Download Final Report (PDF)](https://github.com/ghassanbelaish-DataAnalyist/PREPARING-FOR-INFLUENZA-SEASON/blob/main/Final%20report.pdf)**
+**[Download Final Report (PDF)](https://github.com/ghassanbelaish-DataAnalyist/PREPARING-FOR-INFLUENZA-SEASON/blob/main/Final%20report.pdf)** | **[Go to Tableau Dashboard](https://public.tableau.com/views/FludeathsinUSA/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Project Overview
 This project focuses on providing data-driven insights for a medical staffing agency to prepare for the upcoming US influenza season. The primary objective was to determine the timing and quantity of temporary staff needed for hospitals across all 50 states by identifying high-risk populations and regional trends.
